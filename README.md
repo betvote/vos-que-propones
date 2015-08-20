@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Vos que Proponés?
 
 Sitio en producción: http://queproponen.com.ar/
@@ -13,3 +14,7 @@ La **metodología** de recopilación de la información se realizó investigando
 ## Licencia
 
 MIT
+=======
+# vos-que-propones
+Restauración del proyecto "VOS QUE PROPONES" del Partido de la Red
+>>>>>>> 4f7fd718c9a3b37f147c61ffbde8ba813dae2834
